@@ -120,6 +120,7 @@ p:last-child {
     font-family: 'Outfit', sans-serif;
     font-size: 19px;
     font-weight: 700;
+    text-transform: uppercase;
     border: none;
     border-radius: 10px;
     text-decoration: none;
